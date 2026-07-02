@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0234-palindrome-linked-list) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0234-palindrome-linked-list) |
 ## Stack
