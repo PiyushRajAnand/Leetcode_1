@@ -16,7 +16,7 @@ class Solution {
         int size=0;
         ListNode curr=head;
         ListNode dummy=new ListNode(0);
-        ListNode prev=null;
+        // ListNode prev=null;
         dummy.next=head;
         if(head==null || head.next==null){
             return head;
@@ -32,8 +32,9 @@ class Solution {
         if(k==0){
             return head;
         }
+        // we need to stop one node before 
         while(curr!=null && i<size-k-1){
-            prev=curr;
+            // prev=curr;
             curr=curr.next;
             i++;
         }
