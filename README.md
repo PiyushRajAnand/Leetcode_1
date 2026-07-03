@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0086-partition-list) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0023-merge-k-sorted-lists) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3620-network-recovery-pathways) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -110,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
