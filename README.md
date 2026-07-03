@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0234-palindrome-linked-list) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -97,4 +99,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3620-network-recovery-pathways) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
