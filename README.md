@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0160-intersection-of-two-linked-lists) |
+| [0460-lfu-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0460-lfu-cache) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0460-lfu-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,8 +141,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
