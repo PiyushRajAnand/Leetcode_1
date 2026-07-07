@@ -34,7 +34,8 @@ class Solution {
                     queue.offer(curr.right);
                 }
             }
-            list.add(sum/size);
+            double avg= (double)sum/ size;
+            list.add(avg);
         }
         return list;
     }
