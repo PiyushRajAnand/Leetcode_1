@@ -12,8 +12,9 @@ class Solution {
             if(arr[i-1]==arr[i]){
                 continue;
             }
-            hm.put(arr[i],rank+1);
             rank++;
+            hm.put(arr[i],rank);
+            
         }
         for(int i=0;i<m.length;i++){
             arr[i]=hm.get(m[i]);
