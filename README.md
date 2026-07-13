@@ -247,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0257-binary-tree-paths) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
