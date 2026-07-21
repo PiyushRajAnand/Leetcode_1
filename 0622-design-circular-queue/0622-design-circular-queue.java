@@ -1,88 +1,61 @@
 class MyCircularQueue {
-    public int begOfQueue=-1;
-    public int topOfQueue=-1;
-    public int queue[];
-    public int k;
+
+    int[] queue;
+    int front;
+    int rear;
+    int size;
+    int capacity;
+
     public MyCircularQueue(int k) {
-        this.queue=new int[k];
-        this.k=k;
-        Arrays.fill(queue,-1);
-    }
-    public boolean isFull(){
-        if(topOfQueue+1==begOfQueue){
-            return true;
-        }else if(begOfQueue==0 && topOfQueue==k-1){
-            return true;
-        }else{
-            return false;
-        }
-    }
-    public boolean isEmpty(){
-        if(begOfQueue==-1){
-            return true;
-        }else{
-            return false;
-        }
-    }
-    public boolean enQueue(int value) {
-        if(isFull()){
-            return false;
-        }else if(isEmpty()){
-            begOfQueue=0;
-            topOfQueue++;
-            queue[topOfQueue]=value;
-            return true;
-        }else{
-            if(topOfQueue+1==k){
-                if(queue[0]!=-1){ 
-                    return false;
-                }else{
-                    topOfQueue=0;
-                }
-            }else{
-                topOfQueue++;
-            }
-            queue[topOfQueue]=value;
-            return true;
-        }
-    }
-    
-    public boolean deQueue() {
-        if(isEmpty()){
-            return false;
-        }else{
-            int val=queue[begOfQueue];
-            queue[begOfQueue]=-1;
-            
-            if(begOfQueue==topOfQueue){
-                begOfQueue=topOfQueue=-1;
-            }else if(begOfQueue+1==k){
-                begOfQueue=0;
-            }else{
-                begOfQueue++;
-            }
-            return true;
-        }
-    }
-    
-    public int Front() {
-        if(isEmpty()){
-            return -1;
-        }else{
-            return queue[begOfQueue];
-        }
+        queue = new int[k];
+        capacity = k;
+        front = 0;
+        rear = -1;
+        size = 0;
     }
 
-    
-    public int Rear() {
-        if(isEmpty()){
-            return -1;
-        }else{
-            return queue[topOfQueue];
+    public boolean enQueue(int value) {
+        if (isFull()) {
+            return false;
         }
+
+        rear = (rear + 1) % capacity;
+        queue[rear] = value;
+        size++;
+        return true;
     }
-    
-    
+
+    public boolean deQueue() {
+        if (isEmpty()) {
+            return false;
+        }
+
+        front = (front + 1) % capacity;
+        size--;
+        return true;
+    }
+
+    public int Front() {
+        if (isEmpty()) {
+            return -1;
+        }
+        return queue[front];
+    }
+
+    public int Rear() {
+        if (isEmpty()) {
+            return -1;
+        }
+        return queue[rear];
+    }
+
+    public boolean isEmpty() {
+        return size == 0;
+    }
+
+    public boolean isFull() {
+        return size == capacity;
+    }
 }
 
 /**
