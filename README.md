@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0160-intersection-of-two-linked-lists) |
+| [0383-ransom-note](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0383-ransom-note) |
 | [0460-lfu-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0460-lfu-cache) |
 | [1331-rank-transform-of-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0383-ransom-note) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0383-ransom-note) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack
 |  |
