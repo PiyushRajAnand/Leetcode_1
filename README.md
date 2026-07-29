@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0451-sort-characters-by-frequency) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0234-palindrome-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0202-happy-number) |
 | [1840-maximum-building-height](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
