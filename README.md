@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0460-lfu-cache) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0705-design-hashset](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0705-design-hashset) |
 | [1207-unique-number-of-occurrences](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1331-rank-transform-of-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0234-palindrome-linked-list) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0454-4sum-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0485-max-consecutive-ones) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0622-design-circular-queue](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0705-design-hashset) |
 | [0977-squares-of-a-sorted-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0977-squares-of-a-sorted-array) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1331-rank-transform-of-an-array) |
