@@ -1,6 +1,7 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        while(true){
+        while(true
+        ){
            int m=n;
            int p=1;
            while(m>0){
