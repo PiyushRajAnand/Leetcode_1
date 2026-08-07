@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0705-design-hashset](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0705-design-hashset) |
 | [0930-binary-subarrays-with-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0930-binary-subarrays-with-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0622-design-circular-queue](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0705-design-hashset) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
