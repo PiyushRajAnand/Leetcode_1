@@ -5,16 +5,15 @@ class Solution {
         int sum=0;
         int maxLen=0;
         for(int i=0;i<nums.length;i++){
-            if(nums[i]==0){
-                sum-=1;
-            }else{
-                sum+=1;
-            }
+            if(nums[i]==0) nums[i]=-1;
+        }
+        for(int i=0;i<nums.length;i++){
+            sum+=nums[i];
             if(hm.containsKey(sum)){
-                maxLen=Math.max(maxLen,i-hm.get(sum));
-            }else{
-                hm.put(sum,i);
-            }
+                int len=i-hm.get(sum);
+                maxLen=Math.max(maxLen,len);
+            }else{hm.put(sum,i);}
+ 
         }
         return maxLen;
     }
