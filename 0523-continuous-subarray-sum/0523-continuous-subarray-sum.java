@@ -11,7 +11,7 @@ class Solution {
                     return true;
                 }
             }else{
-            map.put(ms,i);
+                map.put(ms,i);
             }
         }
         return false;
