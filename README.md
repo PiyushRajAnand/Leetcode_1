@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1840-maximum-building-height](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1840-maximum-building-height) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0523-continuous-subarray-sum) |
 | [1406-stone-game-iii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1406-stone-game-iii) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1840-maximum-building-height](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1310-xor-queries-of-a-subarray) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1310-xor-queries-of-a-subarray) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
