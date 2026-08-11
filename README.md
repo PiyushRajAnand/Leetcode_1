@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0160-intersection-of-two-linked-lists) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0485-max-consecutive-ones) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3532-path-existence-queries-in-a-graph-i) |
