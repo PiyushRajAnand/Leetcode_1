@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0128-longest-consecutive-sequence) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0290-word-pattern) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0451-sort-characters-by-frequency) |
