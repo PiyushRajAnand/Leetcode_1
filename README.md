@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1840-maximum-building-height](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0451-sort-characters-by-frequency) |
+| [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
@@ -565,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -573,10 +578,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -585,4 +592,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
