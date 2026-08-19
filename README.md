@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3620-network-recovery-pathways) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1260-shift-2d-grid) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
