@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1288-remove-covered-intervals) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2558-take-gifts-from-the-richest-pile) |
