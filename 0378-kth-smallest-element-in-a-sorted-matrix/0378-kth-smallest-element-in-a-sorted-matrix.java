@@ -1,12 +1,18 @@
 class Solution {
     public static int counting(int matrix[][], int target) {
         int count = 0;
+        int n = matrix.length;
 
-        for (int i = 0; i < matrix.length; i++) {
-            for (int j = 0; j < matrix[0].length; j++) {
-                if (matrix[i][j] <= target) {
-                    count++;
-                }
+        int row = 0;
+        int col = n - 1;
+
+        while (row < n && col >= 0) {
+
+            if (matrix[row][col] <= target) {
+                count += col + 1;
+                row++;
+            } else {
+                col--;
             }
         }
 
