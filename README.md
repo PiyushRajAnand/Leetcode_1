@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1563-stone-game-v) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1840-maximum-building-height](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1840-maximum-building-height) |
+| [1854-maximum-population-year](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1854-maximum-population-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1854-maximum-population-year](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1854-maximum-population-year) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0767-reorganize-string) |
 | [1054-distant-barcodes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1054-distant-barcodes) |
+| [1854-maximum-population-year](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
