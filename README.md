@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0622-design-circular-queue) |
+| [0630-course-schedule-iii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0705-design-hashset) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0502-ipo) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0767-reorganize-string) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0316-remove-duplicate-letters) |
 | [0502-ipo](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0767-reorganize-string) |
 | [1054-distant-barcodes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1054-distant-barcodes) |
