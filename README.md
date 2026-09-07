@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1260-shift-2d-grid) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
