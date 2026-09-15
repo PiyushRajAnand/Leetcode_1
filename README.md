@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1054-distant-barcodes) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1288-remove-covered-intervals) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
