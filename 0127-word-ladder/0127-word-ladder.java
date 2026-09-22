@@ -12,7 +12,6 @@ class Solution {
             for (int i = 0; i < size; i++) {
                 String current = queue.poll();
                 if (current.equals(endWord)) return steps;
-                // Generate neighbors: change EACH letter position to EACH possible letter
                 char[] chars = current.toCharArray();
                 for (int pos = 0; pos < chars.length; pos++) {
                     char original = chars[pos];
@@ -26,11 +25,11 @@ class Solution {
                             queue.offer(next);
                         }
                     }   
-                    chars[pos] = original; // restore
+                    chars[pos] = original;
                 }
             } 
             steps++;
         }
-        return 0; // no valid transformation found
+        return 0;
     }
 }
