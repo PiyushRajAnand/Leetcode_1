@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0138-copy-list-with-random-pointer) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0290-word-pattern) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0199-binary-tree-right-side-view) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0752-open-the-lock) |
 ## Graph Coloring
 |  |
