@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -830,4 +832,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0886-possible-bipartition) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
