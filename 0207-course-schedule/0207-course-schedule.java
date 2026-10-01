@@ -20,8 +20,8 @@ class Solution {
         if(state[i]==1) return true;
         state[i]=1;
         for(int neigh:graph.get(i)){
-            if(state[neigh]==1){ return true; }
-            if(state[neigh]==0 && hasCycle(neigh,graph,state)){
+            // if(state[neigh]==1){ return true; }
+            if(hasCycle(neigh,graph,state)){
                 return true;
             }
         }
