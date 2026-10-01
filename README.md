@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0486-predict-the-winner) |
 ## Array
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0523-continuous-subarray-sum) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0231-power-of-two) |
 | [1310-xor-queries-of-a-subarray](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
