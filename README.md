@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0523-continuous-subarray-sum) |
@@ -707,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2413-smallest-even-multiple) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1260-shift-2d-grid) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3069-distribute-elements-into-two-arrays-i) |
