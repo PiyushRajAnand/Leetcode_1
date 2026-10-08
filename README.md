@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0692-top-k-frequent-words) |
 | [0752-open-the-lock](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0767-reorganize-string) |
+| [0990-satisfiability-of-equality-equations](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0977-squares-of-a-sorted-array) |
+| [0990-satisfiability-of-equality-equations](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1054-distant-barcodes) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0886-possible-bipartition) |
+| [0990-satisfiability-of-equality-equations](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0886-possible-bipartition) |
+| [0990-satisfiability-of-equality-equations](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3286-find-a-safe-walk-through-a-grid) |
