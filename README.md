@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0692-top-k-frequent-words) |
 | [0752-open-the-lock](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0767-reorganize-string) |
+| [1021-remove-outermost-parentheses](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0316-remove-duplicate-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Directed Acyclic Graph
 |  |
