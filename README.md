@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0460-lfu-cache) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0417-pacific-atlantic-water-flow) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0486-predict-the-winner) |
