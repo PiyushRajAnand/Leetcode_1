@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0316-remove-duplicate-letters) |
 | [0502-ipo](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0502-ipo) |
