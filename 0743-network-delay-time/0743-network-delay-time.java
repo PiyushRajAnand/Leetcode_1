@@ -29,9 +29,6 @@ class Solution {
         pq.offer(graph[k]);
         while (!pq.isEmpty()) {
             GraphNode current = pq.poll();
-            if (current.distance == Integer.MAX_VALUE) {
-                continue;
-            }
             for (int[] neighbour : current.neighbours) {
                 int nextNode = neighbour[0];
                 int weight = neighbour[1];
