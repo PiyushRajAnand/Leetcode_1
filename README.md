@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0802-find-eventual-safe-states) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1046-last-stone-weight) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0886-possible-bipartition) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0886-possible-bipartition) |
@@ -897,4 +902,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
