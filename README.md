@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0994-rotting-oranges) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1054-distant-barcodes) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0990-satisfiability-of-equality-equations) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0486-predict-the-winner) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1510-stone-game-iv) |
@@ -553,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0886-possible-bipartition) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
