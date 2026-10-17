@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0989-add-to-array-form-of-integer) |
 | [0990-satisfiability-of-equality-equations](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1046-last-stone-weight) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0523-continuous-subarray-sum) |
 | [0908-smallest-range-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0908-smallest-range-i) |
 | [0973-k-closest-points-to-origin](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0973-k-closest-points-to-origin) |
+| [0989-add-to-array-form-of-integer](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0989-add-to-array-form-of-integer) |
 | [1406-stone-game-iii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1510-stone-game-iv](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1510-stone-game-iv) |
