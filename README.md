@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2248-intersection-of-multiple-arrays](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2248-intersection-of-multiple-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2248-intersection-of-multiple-arrays) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1834-single-threaded-cpu](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1834-single-threaded-cpu) |
 | [1840-maximum-building-height](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1840-maximum-building-height) |
+| [2248-intersection-of-multiple-arrays](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2248-intersection-of-multiple-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1054-distant-barcodes) |
 | [1854-maximum-population-year](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1854-maximum-population-year) |
 | [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
+| [2248-intersection-of-multiple-arrays](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2248-intersection-of-multiple-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
