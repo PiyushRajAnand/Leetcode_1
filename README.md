@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1854-maximum-population-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2248-intersection-of-multiple-arrays) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1834-single-threaded-cpu](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1834-single-threaded-cpu) |
 | [1840-maximum-building-height](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1840-maximum-building-height) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2248-intersection-of-multiple-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
