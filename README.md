@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0380-insert-delete-getrandom-o1) |
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1510-stone-game-iv) |
@@ -852,11 +854,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -946,4 +950,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
