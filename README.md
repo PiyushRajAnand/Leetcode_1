@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1054-distant-barcodes) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1301-number-of-paths-with-max-score) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0886-possible-bipartition) |
 | [0990-satisfiability-of-equality-equations](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0990-satisfiability-of-equality-equations) |
+| [1254-number-of-closed-islands](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0886-possible-bipartition) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1254-number-of-closed-islands](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3310-remove-methods-from-project) |
