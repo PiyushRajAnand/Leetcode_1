@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0692-top-k-frequent-words) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0930-binary-subarrays-with-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0622-design-circular-queue) |
 | [0630-course-schedule-iii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0630-course-schedule-iii) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0502-ipo) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -827,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0767-reorganize-string) |
