@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3498-reverse-degree-of-a-string) |
