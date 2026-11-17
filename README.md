@@ -537,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0523-continuous-subarray-sum) |
 | [0908-smallest-range-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0908-smallest-range-i) |
 | [0973-k-closest-points-to-origin](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0973-k-closest-points-to-origin) |
