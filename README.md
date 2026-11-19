@@ -555,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2652-sum-multiples) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1291-sequential-digits) |
+| [2427-number-of-common-factors](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2427-number-of-common-factors) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1019,4 +1022,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0509-fibonacci-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
