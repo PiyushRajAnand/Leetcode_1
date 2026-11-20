@@ -1,13 +1,10 @@
 class Solution {
     public int[] constructRectangle(int area) {
-        int W = (int) Math.sqrt(area);
-        
-        while (area % W != 0) {
-            W--;
+        int w=(int)Math.sqrt(area);
+        while(area%w!=0){
+            w--; //to find w as small as possible 
         }
-        
-        int L = area / W;
-        
-        return new int[]{L, W};
+        int l=area/w;
+        return new int[]{l,w};
     }
 }
