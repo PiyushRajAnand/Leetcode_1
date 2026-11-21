@@ -9,7 +9,7 @@ class Solution {
             }
             if (c != '(') continue;
             depth++;
-            if (depth > r) r = depth;
+            r=Math.max(r,depth);
         }
         return r;
     }
