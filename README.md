@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0908-smallest-range-i) |
 | [0973-k-closest-points-to-origin](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0989-add-to-array-form-of-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1510-stone-game-iv](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1510-stone-game-iv) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0342-power-of-four) |
 | [1310-xor-queries-of-a-subarray](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1310-xor-queries-of-a-subarray) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
