@@ -1,15 +1,11 @@
 class Solution {
     public int arraySign(int[] nums) {
-        int prod=1;
+        int prod=1;int countNeg=0;
         for(int i=0;i<nums.length;i++){
-            if(nums[i]>0){
-                prod*=1;
-            }else if(nums[i]<0){
-                prod*=-1;
-            }else{
-                prod*=0;
-            }
+            if(nums[i]<0) countNeg++;
+            if(nums[i]==0) return 0;
         }
-        return prod;
+        if(countNeg%2!=0) return -1;
+        return 1;
     }
 }
