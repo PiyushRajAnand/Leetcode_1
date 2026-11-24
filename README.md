@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1834-single-threaded-cpu](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1834-single-threaded-cpu) |
 | [1840-maximum-building-height](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1840-maximum-building-height) |
 | [1854-maximum-population-year](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1854-maximum-population-year) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1510-stone-game-iv](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1563-stone-game-v) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1840-maximum-building-height](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1979-find-greatest-common-divisor-of-array) |
