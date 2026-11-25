@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0292-nim-game) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2413-smallest-even-multiple) |
@@ -1037,4 +1041,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2427-number-of-common-factors) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
