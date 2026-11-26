@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2427-number-of-common-factors) |
+| [2485-find-the-pivot-integer](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2652-sum-multiples) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1854-maximum-population-year](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/1854-maximum-population-year) |
+| [2485-find-the-pivot-integer](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PiyushRajAnand/Leetcode_1/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
